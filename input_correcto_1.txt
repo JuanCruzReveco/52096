@@ -1,0 +1,5 @@
+funcion saludar() {
+  escribir("Hola mundo");
+  leer(nombre);
+  escribir("Tu nombre es: " + nombre);
+}

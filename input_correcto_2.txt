@@ -1,0 +1,6 @@
+funcion calcularEdad() {
+  leer(edad);
+  escribir("Tenés " + edad + " años");
+  edad = edad + 1;
+  escribir("El año que viene tendrás " + edad);
+}
