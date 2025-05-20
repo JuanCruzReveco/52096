@@ -3,7 +3,7 @@
 1. **Clona el repositorio:**
 
 ```bash
-git clone https://github.com/joaquin-echenagorria/51964.git
+git clone (https://github.com/JuanCruzReveco/52096.git)
 cd 52096
 ```
 
